@@ -1,0 +1,20 @@
+{
+  "id": "test",
+  "name": "Test Server",
+  "description": "testipjseitjetijsotes",
+  "addresses": [
+    "test.test"
+  ],
+  "primaryAddress": "test.test.tes",
+  "gameTypes": [
+    "PvP",
+    "PvE",
+    "HCF"
+  ],
+  "primaryColor": "#ff0000",
+  "secondaryColor": "#59ff00",
+  "minecraftVersions": [],
+  "languages": [],
+  "regions": [],
+  "socials": {}
+}
